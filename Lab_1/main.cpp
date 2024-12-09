@@ -18,5 +18,8 @@ int main() {
     std::cout << "\nAverage of Student 1 and Student 2:\n";
     student3.display();
 
+    student_2.setSurname("Vorontsova"){
+    
+}
     return 0;
 }
